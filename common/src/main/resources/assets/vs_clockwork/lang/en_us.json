@@ -89,6 +89,7 @@
   "vs_clockwork.gas_exhaust.function2": "and into the surrounding area.",
   "vs_clockwork.gas_backtank.function1": "Retains gas contents when broken.",
   "vs_clockwork.gas_backtank.function2": "Can be worn to serve as a personal gas tank.",
+  "vs_clockwork.gas_backtank.function3": "Right-click to pick up and place.",
   "vs_clockwork.gas_crafter.function1": "Processes crafting recipes that require gas",
   "vs_clockwork.gas_crafter.function2": "as an ingredient when placed above a basin.",
   "vs_clockwork.coal_burner.function": "Burns furnace fuels to produce heat up to 1000K.",
