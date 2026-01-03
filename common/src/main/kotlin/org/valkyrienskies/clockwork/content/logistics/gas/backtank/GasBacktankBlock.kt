@@ -166,6 +166,9 @@ class GasBacktankBlock(properties: Properties) : HorizontalDirectionalBlock(prop
             ChatFormatting.ITALIC),
 
             Component.translatable("vs_clockwork.gas_backtank.function2").withStyle(ChatFormatting.GRAY).withStyle(
+            ChatFormatting.ITALIC),
+            
+            Component.translatable("vs_clockwork.gas_backtank.function3").withStyle(ChatFormatting.GRAY).withStyle(
             ChatFormatting.ITALIC)
             )
     }
